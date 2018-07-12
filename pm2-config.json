@@ -1,0 +1,8 @@
+{
+  "name":"Exchange_wallet",
+  "cwd":"./",
+  "script":"./bin/www",
+  "env":{
+    "NODE_ENV":"production"
+  }
+}
